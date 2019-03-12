@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CPEPSI Customer</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="terms">I accept terms and condition and allow GPS tracking, use of contact number, messaging, camera, video etc</string>
+    <string name="title_activity_main__provider"></string>
+    <string name="title_activity_get__service_providers">Map</string>
+    <string name="title_activity_get__service__providerss">Map</string>
+    <string name="title_activity_testmap">Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
